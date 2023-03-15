@@ -90,6 +90,9 @@ input {
     margin-left: 0px;
     font-size: 20px;
 }
+#btnLogin:hover{
+    background-color: #1b72e3;
+}
 
 .separadorContainer {
     display: flex;
@@ -222,6 +225,11 @@ input {
     margin-left: 70px;
     font-size: 17px;
 }
+.cren:hover{
+    background-color: #3eaa28;
+}
+
+
 .mas{
     border: 1px solid #c5c5c5;
     font-size: 20px;

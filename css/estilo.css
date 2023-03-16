@@ -128,10 +128,16 @@ input {
     margin: 0 0 20px;
     font-size: 14px;
 }
+#olvi:hover{
+    text-decoration:underline;
+}
 .regi{
     text-decoration: none;
     color: inherit;
     
+}
+.regi:hover{
+    text-decoration: underline;
 }
 
 .linkUsuario a {

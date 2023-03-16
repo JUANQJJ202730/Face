@@ -216,6 +216,9 @@ input {
     padding: 10px;
     color: #8a8d91;
 }
+.futer a:hover{
+    text-decoration: underline;
+}
 
 
 .cren{
@@ -254,6 +257,9 @@ input {
     text-decoration: none;
     padding: 5px 5px 5px;
     color: #8a8d91;
+}
+.caja4 a:hover{
+    text-decoration: underline;
 }
 .caja4{
     display: flex;
